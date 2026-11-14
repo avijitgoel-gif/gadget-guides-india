@@ -8,7 +8,7 @@ date: 2026-11-14
 
 > **Affiliate disclosure:** This page contains affiliate links. If you buy through them, we may earn a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. Prices, ratings and specs were copied from Amazon.in's Keyboard and Mouse Sets bestseller list and product pages on 14 November 2026. They change often, so check the live price before you buy.
 
-A wireless keyboard and mouse combo is the cheapest upgrade for a laptop on a desk, a home office PC or a family desktop. On 14 November 2026, five of the top eight sellers in Amazon.in's Keyboard and Mouse Sets list were wireless combos priced under ₹1,500, from Portronics, Logitech and Dell.
+A wireless keyboard and mouse combo is the cheapest upgrade for a laptop on a desk, a home office PC or a family desktop. On 14 November 2026, seven of the top eight sellers in Amazon.in's Keyboard and Mouse Sets list were wireless combos priced under ₹1,500.
 
 They look alike in photos, but they differ on three things that matter after the first week: how long the batteries last, how long the warranty runs, and what happens if you lose the tiny USB receiver. This guide uses only what the Amazon.in listings and the makers' own pages state. For live prices, open the [Amazon.in Keyboard and Mouse Sets bestseller list](https://www.amazon.in/gp/bestsellers/computers/1375418031?tag=rupeesmart01-21){:rel="sponsored nofollow noopener"}.
 
@@ -82,7 +82,7 @@ The Key2 Combo was #6 at ₹1,020 (list price ₹1,499), with 4.0 stars from 16,
 
 ### Under ₹600? Read the ratings first
 
-The cheapest wireless combo in the top five was the Zebronics Companion 107 at ₹549, with 24,114 ratings. Its average was 3.5 stars, the lowest of any combo we looked at. It does include a ₹ key, 12 multimedia keys and a mouse power button. It works for a spare PC, but for daily use the ₹470 step up to the Portronics or Logitech buys a noticeably better-rated product.
+The cheapest wireless combo in the top five was the Zebronics Companion 107 at ₹549, with 24,114 ratings. Its average was 3.5 stars, the lowest in the top five. It does include a ₹ key, 12 multimedia keys and a mouse power button. It works for a spare PC, but for daily use the ₹470 step up to the Portronics or Logitech buys a noticeably better-rated product.
 
 ## The lost-receiver trap
 
