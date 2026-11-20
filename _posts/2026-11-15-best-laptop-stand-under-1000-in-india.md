@@ -151,6 +151,7 @@ Aluminium stands are lighter to carry, at 200 to 270 grams in these listings, wh
 
 ## More guides
 
+- [Best Laptop Cooling Pad Under Rs 1,500]({{ "/best-laptop-cooling-pad-under-1500-in-india/" | relative_url }})
 - [Best Wireless Keyboard and Mouse Combo Under Rs 1,500]({{ "/best-wireless-keyboard-mouse-combo-under-1500-in-india/" | relative_url }})
 - [Best Wireless Mouse Under Rs 1,000]({{ "/best-wireless-mouse-under-1000-in-india/" | relative_url }})
 - [Logitech M221 vs B170]({{ "/logitech-m221-vs-b170/" | relative_url }})
