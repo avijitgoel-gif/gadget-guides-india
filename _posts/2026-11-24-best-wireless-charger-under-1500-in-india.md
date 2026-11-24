@@ -8,7 +8,7 @@ date: 2026-11-24
 
 > **Affiliate disclosure:** This page contains affiliate links. If you buy through them, we may earn a commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. Prices, ratings and ranks were copied from Amazon.in product pages on 24 November 2026. Charger prices change often, so check the live price before you buy.
 
-Almost every wireless charger under ₹1,500 on Amazon.in says "15W" in its title. Very few of them will actually charge your phone at 15W.
+Almost every wireless charger under ₹1,500 on Amazon.in says "15W" in its title. Very few of them can prove it.
 
 The reason is simple. Apple says many Qi chargers charge an iPhone at up to 7.5 watts, and that for faster wireless charging you need a MagSafe charger or a **Qi2 certified** charger. Samsung says Fast Wireless Charging on a Galaxy may be limited on chargers without WPC (Qi) certification. So the number on the box matters less than one question: is this exact model in the Wireless Power Consortium's certified product database?
 
